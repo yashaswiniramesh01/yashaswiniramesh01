@@ -31,7 +31,7 @@ I like building transparent financial models and writing equity-research style r
 ## Reach out  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-slug" target="_blank">
+  <a href="https://www.linkedin.com/in/yashaswini-ramesh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:yashaswiniramesh01@gmail.com">
