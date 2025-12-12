@@ -1,9 +1,8 @@
-# Hey, I'm Yashaswini (She/Her) 👋  
+  # Hey, I'm Yashaswini (She/Her) 👋  
 
 ## About Me  
 
-I am an MSc Finance graduate and **CFA Level I candidate** focused on **equity research, valuation, portfolio analytics, and Python-based algorithmic trading in Python**.  
-I like building transparent financial models and writing equity-research style reports that turn market data into clear investment views.
+I’m an MSc Finance graduate and CFA Level I candidate focused on equity research, valuation, portfolio analytics, and Python-based algorithmic trading. I’ve built full valuation models and M&A deal analyses as a Valuation Analyst Intern at Boston Financial Advisory Group. Here you’ll find my valuation models, research reports, and trading strategy backtests.
 
 ## Focus Areas  
 
