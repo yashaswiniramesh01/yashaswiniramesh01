@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hey, I'm Yashaswini (She/Her) 👋  
 
 ## About Me  
