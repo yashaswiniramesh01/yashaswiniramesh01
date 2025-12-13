@@ -1,4 +1,4 @@
- ______ # Hey, I'm Yashaswini (She/Her)
+   # Hey, I'm Yashaswini (She/Her)
 
 ## About Me  
 
@@ -11,7 +11,7 @@ I’m an MSc Finance graduate and CFA Level I candidate focused on equity resear
 - Algorithmic trading in Python  
 - M&A and corporate finance  
 
-## Selected Projects  
+## Projects  
 
 - **Equity Research Report – Caterpillar Inc.**  
   3-statement model (DCF, WACC, ratios, relative valuation) plus full equity research report with macro, ESG and multi-scenario testing.  
